@@ -1,0 +1,11 @@
+Loopong adalah suatu fungsi untuk mengulang baris program
+
+- Counted Loop a/ 
+    Loop yang harus kita tentukan kapan harus berhenti
+    - for
+    - for each
+
+- uncounted
+    kebalikan Counted
+    - while
+    -do while

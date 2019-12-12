@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LoopingWhile",
+            "request": "launch",
+            "mainClass": "LoopingWhile",
+            "projectName": "Looping_92198251"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Sorting",
+            "request": "launch",
+            "mainClass": "Sorting",
+            "projectName": "Looping_92198251"
+        }
+    ]
+}
